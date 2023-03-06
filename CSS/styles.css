@@ -64,14 +64,12 @@ main-c
 {
     width: 100%;
     height: 30%;
-    background-color: blue;
 }
 
 main-c-2
 {
-    background-color: aquamarine;
     width: 100%;
-    height: 30%;
+    height: 35%;
   
 }
 
@@ -166,12 +164,4 @@ footer
     float: left;
     margin-top: 4%;
     margin-left: 18%;    
-}
-
-form
-{
-    width: 30%;
-    height: 100%;
-    float: left;
-    
 }
