@@ -159,9 +159,49 @@ footer
 
 .texto-contacto
 {
-    width: 28%;
-    height: 86%;
+    width: 30%;
+    height: 440px;
     float: left;
-    margin-top: 4%;
+    margin-top: 3%;
     margin-left: 18%;    
+}
+
+
+.consultanos
+{
+    margin-left: 15%;
+}
+
+
+form
+{
+    margin-left: 15%;
+    margin-bottom: 5%;
+}
+
+.construccion
+{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.regresar
+{
+    color: white;
+    margin-left: 45%;
+    margin-top: 1%;
+}
+
+.bot-regresar
+{
+    margin-left: 40%;
+    margin-top: 1%;
+}
+
+.img-const
+{
+    margin-left: 37%;
+    margin-top: 5%;
 }
